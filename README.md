@@ -7,7 +7,7 @@ The project fully relies on the **TensorFlow** framework, and the working enviro
 ## Team Composition
 Group name: **All Is Well**
 - Fatma Hamila
-- Kodai Takigawa
+- Kodai Takigawa ([@kodai-t](https://github.com/kodai-t))
 - Zheng Maria Yu ([@Trixyz28](https://github.com/Trixyz28))
 
 
